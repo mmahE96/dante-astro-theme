@@ -43,9 +43,9 @@ Components Script
 Utilize CODE FENCE as a tag for component scripts.
 
 
----
+___
 code fence
----
+___
 
 
 Write JavaScript for server-side functionality.
