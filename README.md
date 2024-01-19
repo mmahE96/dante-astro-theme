@@ -41,9 +41,12 @@ Separate Astro element IMAGE for public folder images.
 
 Components Script
 Utilize CODE FENCE as a tag for component scripts.
+
+
 ---
 code fence
 ---
+
 
 Write JavaScript for server-side functionality.
 Frontend client-side JavaScript added using <script> tags.
